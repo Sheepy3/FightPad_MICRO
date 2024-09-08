@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mcu")(type "KiCad")(uri "F:/Sauce/FightPad_MICRO/FightPad_MICRO/Symbols/mcu.kicad_sym")(options "")(descr ""))
+)
